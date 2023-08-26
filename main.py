@@ -89,7 +89,7 @@ num = randint(LOWER_LIMIT, UPPER_LIMIT)
 from random import randint
 
 num = randint(0, 1000)
-print(f"Компьтер загадал {num}, но ты не смотри сюда, используй интуицию")
+#print(f"Компьтер загадал {num}, но ты не смотри сюда, используй интуицию")
 print("Программа загадала число от 0 до 1000 и у тебя 10 попыток, чтобы угадать)")
 for i in range(10):
     chance = int(input(f"{i + 1}-я попытка! >>>  "))
