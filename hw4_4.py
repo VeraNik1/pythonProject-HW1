@@ -45,7 +45,7 @@ class ATM:
     # снятие денег со счета
     def withdraw(self, summ):
         if self._balance > 5_000_000:
-            self.history.append(f"tax_rich 10% +{self._balance * 0.1:.2f}")
+            self.history.append(f"tax_rich 10% -{self._balance * 0.1:.2f}")
             self._balance *= 0.9
         if summ % 50:
             print(f'{dt.datetime.now().strftime("%d.%m.%Y %H:%M:%S-%f")} Ошибка! Введите сумму снятия, кратную 50 у.е')
