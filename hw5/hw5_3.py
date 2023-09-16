@@ -15,7 +15,6 @@ def path_name_ext_os(path):
     return (dirname, filename, file_extension)
 
 
-
 print(path_name_ext_re('C:\\Users\Veronika\Desktop\\bootcamp.csproj'))
 print(path_name_ext_re('C:\\Users\Veronika\PycharmProjects\pythonProject\\venv\Scripts\python.exe'))
 print(path_name_ext_re("D:/Autotests/My first project/Studying project/Tests/Tests results/results.txt"))

@@ -67,7 +67,6 @@ for k, v in items_statistic.items():
     if len(v) == 1:
         print(f'{v[0]} взял уникальную вещь/и - {k}')
 
-
 #Какие вещи есть у всех друзей кроме одного и имя того, у кого данная вещь отсутствует
 for k, v in items_statistic.items():
     if len(v) == len(camping_data) - 1:
