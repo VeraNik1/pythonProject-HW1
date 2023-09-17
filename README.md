@@ -9,6 +9,8 @@
 
     [task 2](https://github.com/VeraNik1/pythonProject-HW1/blob/homework6/hw6/date_package/user_mode.py)
 
+![пример1](hw6/games/examples/date_package_in_terminal.png)
+
 3. Добавьте в пакет, созданный на семинаре шахматный модуль. Внутри него напишите код, решающий задачу о 8 ферзях. 
 Известно, что на доске 8×8 можно расставить 8 ферзей так, чтобы они не били друг друга. Вам дана расстановка 8 ферзей 
 на доске, определите, есть ли среди них пара бьющих друг друга. Программа получает на вход восемь пар чисел, каждое 
@@ -20,3 +22,8 @@
 выше. Проверяйте различный случайные варианты и выведите 4 успешных расстановки.
 
     [task 4](https://github.com/VeraNik1/pythonProject-HW1/blob/homework6/hw6/games/chess_mod.py)
+
+![пример3](hw6/games/examples/date_package_in_terminal.png)
+![пример4](hw6/games/examples/game_package_in_terminal_01.png)
+![пример5](hw6/games/examples/game_package_in_terminal_02.png)
+![пример6](hw6/games/examples/game_package_in_terminal_03.png)
