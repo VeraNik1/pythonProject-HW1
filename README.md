@@ -23,7 +23,6 @@
 
     [task 4](https://github.com/VeraNik1/pythonProject-HW1/blob/homework6/hw6/games/chess_mod.py)
 
-![пример3](hw6/games/examples/date_package_in_terminal.png)
-![пример4](hw6/games/examples/game_package_in_terminal_01.png)
-![пример5](hw6/games/examples/game_package_in_terminal_02.png)
-![пример6](hw6/games/examples/game_package_in_terminal_03.png)
+![пример3](hw6/games/examples/game_package_in_terminal_01.png)
+![пример4](hw6/games/examples/game_package_in_terminal_02.png)
+![пример5](hw6/games/examples/game_package_in_terminal_03.png)
