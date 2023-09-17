@@ -1,6 +1,5 @@
-import sys
 
-from hw6.games.chess_mod import show_board, check_queens, hand_queen_placement, place_eight_queens_randomly, \
+from chess_mod import show_board, check_queens, hand_queen_placement, place_eight_queens_randomly, \
     find_list_of_combinations
 
 
