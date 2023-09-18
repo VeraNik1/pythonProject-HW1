@@ -1,3 +1,5 @@
+# HOMEWORK 7
+
 ✔ Решить задачи, которые не успели решить на семинаре.
 
 [task1](https://github.com/VeraNik1/pythonProject-HW1/tree/homework7/hw7/file_mod)
