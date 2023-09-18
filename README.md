@@ -1,5 +1,7 @@
 ✔ Решить задачи, которые не успели решить на семинаре.
 
+[task1](https://github.com/VeraNik1/pythonProject-HW1/tree/homework7/hw7/file_mod)
+
 ✔ Напишите функцию группового переименования файлов. 
 
 Она должна:
@@ -18,4 +20,8 @@
     [3, 6] берутся буквы с 3 по 6 из исходного имени файла. К ним прибавляется
     желаемое конечное имя, если оно передано. Далее счётчик файлов и расширение.
 
+[task_2](https://github.com/VeraNik1/pythonProject-HW1/blob/homework7/hw7/file_mod/rename_task.py)
+
 ✔ Соберите из созданных на уроке и в рамках домашнего задания функций пакет для работы с файлами.
+
+[task_3](https://github.com/VeraNik1/pythonProject-HW1/blob/homework7/hw7/test_3.py)
