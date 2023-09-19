@@ -22,7 +22,7 @@ def load_json_file(file_name):
 
 def rewrite_json_file(file_name, data):
     with open(file_name, 'w+', encoding="UTF-8") as file:
-        print(json.dumps(data, ensure_ascii=True, separators=(',', ':')), file=file)
+        json.dump(data, file)
 
 
 def user_name():
@@ -66,7 +66,7 @@ def users_list():
         uid = user_id(id_data)
         lvl = level()
         data[lvl] = data.get(lvl, {}) | {uid: name}
-        #print(data)
+        # print(data)
         rewrite_json_file(FILE_PATH, data)
         if input("Введите q для выхода или любую клавишу чтобы продолжить>>> ").lower() == 'q':
             return
