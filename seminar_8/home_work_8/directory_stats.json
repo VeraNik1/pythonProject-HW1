@@ -1,0 +1,98 @@
+[
+    {
+        "name": "home_work_8",
+        "parent_directory": "seminar_8",
+        "object_type": "directory",
+        "size_byte": 6428
+    },
+    {
+        "name": "task_02_03.py",
+        "parent_directory": "seminar_8",
+        "object_type": "file",
+        "size_byte": 3578
+    },
+    {
+        "name": "task_04.py",
+        "parent_directory": "seminar_8",
+        "object_type": "file",
+        "size_byte": 1362
+    },
+    {
+        "name": "task_05.py",
+        "parent_directory": "seminar_8",
+        "object_type": "file",
+        "size_byte": 862
+    },
+    {
+        "name": "task_06.py",
+        "parent_directory": "seminar_8",
+        "object_type": "file",
+        "size_byte": 1073
+    },
+    {
+        "name": "users_data.csv",
+        "parent_directory": "seminar_8",
+        "object_type": "file",
+        "size_byte": 110
+    },
+    {
+        "name": "users_data.json",
+        "parent_directory": "seminar_8",
+        "object_type": "file",
+        "size_byte": 160
+    },
+    {
+        "name": "users_data.pickle",
+        "parent_directory": "seminar_8",
+        "object_type": "file",
+        "size_byte": 151
+    },
+    {
+        "name": "users_data_new.csv",
+        "parent_directory": "seminar_8",
+        "object_type": "file",
+        "size_byte": 359
+    },
+    {
+        "name": "users_data_new.json",
+        "parent_directory": "seminar_8",
+        "object_type": "file",
+        "size_byte": 831
+    },
+    {
+        "name": "users_data_new.pickle",
+        "parent_directory": "seminar_8",
+        "object_type": "file",
+        "size_byte": 467
+    },
+    {
+        "name": "directory_stats.csv",
+        "parent_directory": "home_work_8",
+        "object_type": "file",
+        "size_byte": 40
+    },
+    {
+        "name": "directory_stats.json",
+        "parent_directory": "home_work_8",
+        "object_type": "file",
+        "size_byte": 2435
+    },
+    {
+        "name": "directory_stats.pickle",
+        "parent_directory": "home_work_8",
+        "object_type": "file",
+        "size_byte": 824
+    },
+    {
+        "name": "hw8.py",
+        "parent_directory": "home_work_8",
+        "object_type": "file",
+        "size_byte": 3069
+    },
+    {
+        "name": "__init__.py",
+        "parent_directory": "home_work_8",
+        "object_type": "file",
+        "size_byte": 60
+    }
+]

@@ -1,0 +1,17 @@
+name,parent_directory,object_type,size_byte
+home_work_8,seminar_8,directory,6428
+task_02_03.py,seminar_8,file,3578
+task_04.py,seminar_8,file,1362
+task_05.py,seminar_8,file,862
+task_06.py,seminar_8,file,1073
+users_data.csv,seminar_8,file,110
+users_data.json,seminar_8,file,160
+users_data.pickle,seminar_8,file,151
+users_data_new.csv,seminar_8,file,359
+users_data_new.json,seminar_8,file,831
+users_data_new.pickle,seminar_8,file,467
+directory_stats.csv,home_work_8,file,40
+directory_stats.json,home_work_8,file,2435
+directory_stats.pickle,home_work_8,file,824
+hw8.py,home_work_8,file,3069
+__init__.py,home_work_8,file,60
