@@ -13,7 +13,7 @@ import json
 def export_csv_to_json(csv_file: str, json_file: str):
     final_dict = {}
     with open(csv_file, 'r', encoding='UTF-8') as file:
-        data = file.readlines()
+        data = file.readlines()[1:]
     for i, items in enumerate(data):
         data[i] = data[i].strip().split(',')
         data[i][0] = data[i][0].zfill(10)
