@@ -11,21 +11,24 @@ class BaseExceptions(Exception):
 
 
 class LevelError(BaseExceptions):
-    def __init__(self, value, value_min):
-        self.value = value
-        self.value_min = value_min
-
-    def __str__(self):
-        return f"Ошибка уровня - {self.value} > минимального уровня {self.value_min}"
+    pass
 
 
 class AccessError(BaseExceptions):
-    def __init__(self, value):
+    pass
 
-        self.value = value
 
-    def __str__(self):
-        return f"Ошибка доступа - {self.value}"
+class InvalidNameError(BaseExceptions):
+    pass
+
+
+class InvalidLevelError(BaseExceptions):
+    pass
+
+
+class InvalidIdError(BaseExceptions):
+    pass
+
 
 
 def fun(num):
